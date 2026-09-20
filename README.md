@@ -1,25 +1,21 @@
 # Hi 👋
 
-I'm currently pursuing a Master's in Computer Science at Case Western Reserve University and building a stronger foundation in software development, data, and computer science.
+I'm a Master's in Computer Science student at Case Western Reserve University, currently focused on building practical experience with Python, SQL, data, and software development.
 
-I came into CS from a nontraditional background, so a lot of what I'm doing right now is learning by building, experimenting, and figuring out which areas of tech I enjoy the most.
+My path into computer science has been a little unconventional. Before starting my MSCS, I studied health sciences and worked in healthcare and banking. That background has made me especially interested in using technology to solve real-world problems.
 
-Python has become my main language, and lately I've been focusing most of my time on:
+## What I'm working with
 
 * 🐍 Python
 * 🗄️ SQL & databases
 * 🧠 Data structures & algorithms
-* 🛠️ Building projects beyond coursework
-* 📊 Exploring data, software engineering, and AI
+* 📊 Data analysis
+* 🛠️ Software projects
 
-I've also worked with Java through earlier coursework and projects, but I've since shifted most of my development toward Python, where I feel much more comfortable.
+I've also worked with Java and C# through earlier coursework, but Python has become my primary development language.
 
-I'm especially interested in software engineering, data science, AI, and areas where computing overlaps with science and biology.
+## What I'm interested in
 
-This GitHub is where I'm keeping track of what I build and how my skills develop along the way.
+I'm currently exploring opportunities across software engineering, data, and AI, with a particular interest in projects that combine technical problem-solving with real-world applications.
 
-## What I'm working on
-
-Right now, I'm improving my Python and SQL skills, working through graduate CS coursework, and building larger projects that I can use to explore different areas of tech.
-
-More projects coming soon.
+Right now, I'm focused on building larger projects beyond coursework and continuing to strengthen my programming and problem-solving skills.
